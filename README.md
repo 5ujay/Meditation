@@ -34,7 +34,7 @@ Welcome to the Meditation App! ✨ This app is designed to help you find peace a
 To get started, clone the repo and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/meditation-app.git
-cd meditation-app
+git clone https://github.com/5ujay/Meditation.git
+cd meditation
 npm install
 npx expo start
