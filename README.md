@@ -1,50 +1,40 @@
-# Welcome to your Expo app 👋
+# 🧘‍♂️ Meditation App 🧘‍♀️
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to the Meditation App! ✨ This app is designed to help you find peace and mindfulness with guided meditation sessions, calming sounds, and more. Whether you're a beginner or an experienced meditator, this app will guide you to a better state of mind. 🌿
 
-## Get started
+📦 **Download the APK** 📥: [Download APK](https://expo.dev/accounts/5ujay/projects/Meditation/builds/4e302ea2-cfee-474d-8879-82dcf2771500)
 
-1. Install dependencies
+## Features 🚀
+- 🧘‍♂️ Guided Meditation Sessions
+- 🎶 Calming Soundscapes (Rain, Ocean Waves, Forest Sounds, etc.)
+- ⏱️ Meditation Timers
+- 🛏️ Sleep Aid Features
 
-   ```bash
-   npm install
-   ```
+## Screenshots 📱
 
-2. Start the app
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+  <img src="./assets/app_images/ss_img1.jpeg" alt="Screenshot 1" style="width: 48%; object-fit: cover;"/>
+  <img src="./assets/app_images/ss_img2.jpeg" alt="Screenshot 2" style="width: 48%; object-fit: cover;"/>
+  <img src="./assets/app_images/ss_img3.jpeg" alt="Screenshot 3" style="width: 48%; object-fit: cover;"/>
+  <img src="./assets/app_images/ss_img4.jpeg" alt="Screenshot 4" style="width: 48%; object-fit: cover;"/>
+  <img src="./assets/app_images/ss_img5.jpeg" alt="Screenshot 5" style="width: 48%; object-fit: cover;"/>
+</div>
 
-   ```bash
-    npx expo start
-   ```
+## Tech Stack 💻
 
-In the output, you'll find options to open the app in a
+- 🛠️ **Expo**: The framework for building the app.
+- ⚛️ **React Native**: For building native mobile applications.
+- 🌐 **Expo Router**: For routing and navigation.
+- 🧩 **NativeWind**: Utility-first CSS for styling with Tailwind.
+- 📱 **React Navigation**: For app navigation.
+- 🛠️ **React Context**: For efficient data fetching.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Installation ⚙️
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+To get started, clone the repo and install the dependencies:
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/yourusername/meditation-app.git
+cd meditation-app
+npm install
+npx expo start
